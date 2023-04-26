@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../workspace/pybo"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../workspace"
+		}
+	],
+	"settings": {}
+}
